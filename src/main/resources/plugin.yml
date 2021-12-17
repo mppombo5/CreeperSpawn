@@ -1,0 +1,6 @@
+name: CreeperSpawn
+version: 0.1.0
+main: me.macitron3000.creeperspawn.CreeperSpawn
+api-version: 1.18
+description: Just spawns a creeper when you place a block lmao
+author: Macitron3000

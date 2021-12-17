@@ -1,0 +1,17 @@
+# The chance that any block placement will trigger a creeper spawn.
+# Must be a decimal number between 0 and 1.
+spawn-chance: 0.2
+
+# List of players/victims that we want to troll with creepers.
+victims: []
+
+# If `victims` is empty, this decides whether the default should be to spawn
+# a creeper or not.
+default-victimize: false
+
+# How far from the player in the X-Z plane a creeper can be spawned.
+# Forms a square, I don't feel like doing actual circles.
+horizontal-radius: 4
+
+# How far in the Y-axis.
+vertical-radius: 2
